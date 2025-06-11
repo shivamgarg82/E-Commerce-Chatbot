@@ -2,7 +2,8 @@
 
 A simple Flask-based e-commerce chatbot that helps users with product inquiries, order status, shipping information, and returns.
 
-![Chatbot Screenshot](screenshot.png) *(Optional: Add screenshot later)*
+![Screenshot 2025-06-11 152648](https://github.com/user-attachments/assets/6c50b38e-f8e2-4f8c-a17c-1c2c2ec4f8b8)
+
 
 ## Features
 
