@@ -4,7 +4,7 @@ A simple Flask-based e-commerce chatbot that helps users with product inquiries,
 
 ![Screenshot 2025-06-11 152648](https://github.com/user-attachments/assets/6c50b38e-f8e2-4f8c-a17c-1c2c2ec4f8b8)
 
-
+ 
 ## Features
 
 - Interactive chat interface with typing indicators
