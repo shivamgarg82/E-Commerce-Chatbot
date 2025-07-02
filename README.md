@@ -11,7 +11,7 @@ A simple Flask-based e-commerce chatbot that helps users with product inquiries,
 - Quick reply buttons for common queries
 - Product database with search functionality
 - Order status tracking
-- Shipping and returns information
+- Shipping and returns information  
 - Responsive design
 
 ## Technologies Used
