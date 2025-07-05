@@ -54,15 +54,15 @@ http://localhost:5000
 Project Structure
 text
 ecommerce-chatbot/
-├── app.py                # Flask application
-├── static/
-│   ├── css/
-│   │   └── style.css     # Stylesheet
-│   └── js/
-│       └── script.js     # JavaScript for chat functionality
-├── templates/
-│   └── index.html        # Main HTML page
-└── README.md             # This file
+├── app.py                    # Flask application
+├── static/    
+│   ├── css/   
+│   │   └── style.css        # Stylesheet
+│   └── js/     
+│       └── script.js         # JavaScript for chat functionality
+├── templates/    
+│   └── index.html             # Main HTML page
+└── README.md                  # This file
 API Endpoints
 GET / - Main chat interface
 
